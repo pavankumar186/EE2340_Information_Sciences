@@ -9,6 +9,6 @@ for x in m:
 		z=z+32
 		
 	if 97<=z<=122:
-		emp[z-97]+=1
+		emp[z-97]+=1/m
 
 print(emp)
