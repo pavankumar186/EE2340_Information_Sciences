@@ -8,6 +8,8 @@ empirical pmf as a 26-length vector corresponding to letters in the English alph
 
 The empirical pmf of a sequence is also called the type of the sequence.
 
+2.4. Give the graph of H_2(p) vs p
+
 2.7. In the previous assignment, you wrote a program to compute the empirical pmf/frequency
 of letters in a text file. Modify that program to first compute the frequency of all ASCII characters (all
 256 possible ASCII characters including newline, space, carriage return) in the file, and then compute the
